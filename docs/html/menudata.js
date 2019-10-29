@@ -34,4 +34,4 @@ var menudata={children:[
 {text:"Files",url:"files.html",children:[
 {text:"File List",url:"files.html"}]},
 {text:"Examples",url:"examples.html"},
-{text:"Datasheet",url:"extras/BST-BME280-DS002.pdf"}]}
+{text:"Datasheet",url:"http://www.google.com"}]}
