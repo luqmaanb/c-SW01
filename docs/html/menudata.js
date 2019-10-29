@@ -33,5 +33,4 @@ var menudata={children:[
 {text:"Functions",url:"functions_func.html"}]}]},
 {text:"Files",url:"files.html",children:[
 {text:"File List",url:"files.html"}]},
-{text:"Examples",url:"examples.html"},
-{text:"Datasheet",url:"http://www.google.com"}]}
+{text:"Examples",url:"examples.html"}]}
